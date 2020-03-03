@@ -23,7 +23,12 @@ Read _two_ of the following articles/videos (we recommend all of them!) and refl
 #### Reflect
 After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.
 * What role does empathy play in your life and how has it helped you?
+Empathy's role in my life is what has led me to become a better mother.  When I landed in the hospital for post-partum depression, I very quickly learned that my perfect-mom-syndrome was going to be the death of me.  It wasn't enough that my son had a mother that was barely surviving, but I also wouldn't be of any use to him dead.  I had to develop a middle ground, and in order to understand where that middle ground existed, I had to be kinder to myself.  One of the deepest major lessons I hold close to my heart, required a high level of empathy.  The first phrase is, "He (my son) doesn't need a perfect mom, he needs a consistant mom.  I am consistantly on time to work, I can create a consistant evening routine for him."  This line of logic helps me overcome all the ways "not being enough" sneaks up on me and makes me feel bad about myself.  
+
 * How does empathy help you build better software?
+Empanthy helps build better software because if we are empathetic with ourselves, we can be more empathetic with our users and connect with them and meet them where they are at.  I like to think about 
+
+
 * Why is empathy important for working on a team?
 * Describe a situation in which your ability to empathize with a colleague or teammate was helpful.
 * When do you find it most difficult to be empathetic in professional settings? How can you improve your skills when faced with these scenarios?
