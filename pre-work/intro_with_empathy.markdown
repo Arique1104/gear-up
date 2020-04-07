@@ -1,3 +1,4 @@
+# Arique Aguilar she/they #2005BE
 ## Gear Up Pre-Work
 ### Turing Culture: Developing Empathetic Programmers
 
